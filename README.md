@@ -1,3 +1,7 @@
+URL - https://qr-gen-ygz6.onrender.com
+
+
+
 QRGen is a fast, lightweight, and privacy-first QR code generator built with Flask.
 It lets you create QR codes instantly in your browser — with no data ever stored on the server.
 100% open-source, free to use, and designed with a clean, modern interface. 🚀
