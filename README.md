@@ -2,10 +2,10 @@ QRGen is a fast, lightweight, and privacy-first QR code generator built with Fla
 It lets you create QR codes instantly in your browser — with no data ever stored on the server.
 100% open-source, free to use, and designed with a clean, modern interface. 🚀
 
-✅ Open source & ad-free
-🌙 Dark / Light mode toggle
-⚡ Instant QR code download
-🔒 Privacy-friendly (no server data storage)
+#✅ Open source & ad-free
+#🌙 Dark / Light mode toggle
+#⚡ Instant QR code download
+#🔒 Privacy-friendly (no server data storage)
 QRGen is created by Deep Code — a community-driven initiative dedicated to building free and open-source solutions for everyone.
 We believe technology should be accessible, privacy-friendly, and transparent — not locked behind subscriptions or ads.
 
